@@ -1,0 +1,5 @@
+terraform.tfstate*
+.direnv
+data/
+.terraform/
+Session.vim
